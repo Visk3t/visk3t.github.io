@@ -22,8 +22,9 @@
             flex-direction: row;
         }
         section div {
-            background-color: lightgoldenrodyellow;
-            padding: 5px 20px;
+            width: 100%;
+            color: black;
+            padding: 15px 20px;
             margin: 10px 15px;
         }
         section.triple-display.middle-section {
